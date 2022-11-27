@@ -53,4 +53,4 @@ All the above options work well together.
 :set hlsearch
 /s+$
 :%s/s+$//
-
+done by mike and martin
