@@ -65,3 +65,5 @@ int _printf(const char *format, ...)
 
 		*buff_ind = 0;
 	}
+}
+/*done by mike and martin*/
